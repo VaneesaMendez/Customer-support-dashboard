@@ -1,3 +1,4 @@
+<img width="933" height="658" alt="Screenshot 2026-06-20 164419" src="https://github.com/user-attachments/assets/33095f20-6463-4be1-9a90-805463478eab" />
 Customer Support Analytics Dashboard
 
 Project Overview:
